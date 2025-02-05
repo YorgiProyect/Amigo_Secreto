@@ -10,7 +10,9 @@ O "Amigo Secreto" é um jogo onde você e seus amigos fazem um sorteio aleatóri
 - CSS
 - JavaScript
 
+```markdown
 ## Como Rodar o Projeto Localmente
+```bash
 git clone https://github.com/YorgiProyect/Amigo_Secreto.git
 
 ## Autoria
